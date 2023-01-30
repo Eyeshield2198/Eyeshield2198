@@ -1,14 +1,10 @@
-<p align = "center"> 
-  <h2>  Hi there, welcome to my profile! 👋 </h2>
-</p>
+<h1 align = "center"> 
+Hi there, welcome to my profile! 👋 
+</h1>
 
 <h4> About Me: </h4>
-:adult: My name is Jun Xian, but feel free to call me Zenn instead! I'm a final year Business Analytics student at the Singapore University of Social Sciences (SUSS). 
-<br>
-:office_worker: Apart from studying, I'm actually on a 1-year work-study programme at Central Provident Fund Board where I work and study at the same time! My role includes:
-<br>
-<br>
-
+- :adult: My name is Jun Xian, but feel free to call me Zenn instead! I'm a final year Business Analytics student at the Singapore University of Social Sciences (SUSS). <br>
+- :office_worker: Apart from studying, I'm actually on a 1-year work-study programme at Central Provident Fund Board where I work and study at the same time! My role includes:<br>
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none; img align = "center";">
@@ -37,35 +33,20 @@ height = "20">
       </td>
       <td style = "word-wrap: break-word;">
         <ul>
-       <li>Learned `PySpark` on the job to help with machine learning pipeline in Microsoft Azure.</li>
+       <li>Learned PySpark on the job to help with machine learning pipeline in Microsoft Azure.</li>
       </ul>
      </td>
    </tr>
 </table>
-:clock10: After work and after night classes on some days, I like to spend my free time learning the Japanese language with Duolingo. <br>
-:chart_with_upwards_trend: I am also extremely interested in trading and have been reading, learning, and practicing them on the forex and crypto market. 
-<br>
+- :clock10: After work and after night classes on some days, I like to spend my free time learning the Japanese language with Duolingo. <br>
+- :chart_with_upwards_trend: I am also extremely interested in trading and have been reading, learning, and practicing them on the forex and crypto market. 
 <br>
 I am currently working on the following: <br>
 - [ ] Complete my honours thesis, developing a deep learning trading bot. <br>
 - [ ] Complete a football bet python script that aims to calculate `Probabilities` against `Odds` of football matches to derive an `Expected Value` to guide bets. This was inspired by a self-directed project done by an officer from my workplace during the 2022 World Cup.
 <hr>
-<p align = center>
-  <h2> I am currently seeking full-time employment opportunities in the Data Analytics or Trading field starting from July 2023 when my current internship ends. </h2>
-</p>
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/goh-jun-xian-5890ba10b/) if you have such opportunities or have common interest as me!
+<h2 align = center>
+I am currently seeking full-time employment opportunities in the Data Analytics or Trading field starting from July 2023 when my current internship ends. </h2>
+</h2>
 
-<!--
-**Eyeshield2198/Eyeshield2198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-GohJunXian-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/goh-jun-xian-5890ba10b/) if you have such opportunities or have common interest as me!
